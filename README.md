@@ -199,3 +199,17 @@ The top-k arguments are then returned as the retrieval results. There is no trai
 The predictions and the results of the baseline system for scenario 1 are stored in the `baseline` folder.
 
 
+# Reference
+```
+@inproceedings{
+    neele-etal-2024-perspective,
+    title = "Overview of PerpectiveArg2024: The First Shared Task on Perspective Argument Retrieval",
+    author = "Falk, Neele and Waldis, Andreas and Gurevych, Iryna",
+    booktitle = "Proceedings of the 11th Workshop on Argument Mining",
+    month = aug,
+    year = "2024",
+    address = "Bangkok",
+    publisher = "Association for Computational Linguistics"
+}
+```
+

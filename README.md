@@ -36,7 +36,7 @@ The data could also be used for vote manipulation, therefore, we ask you to use 
 We only share the data when receiving a request via e-mail, together with a statement of your intended use of the data and potential measurements to counter negative impact.
 
 Please reach out via e-mail to:
-- [Andreas Waldis](mailto:waldis@ukp.tu-darmstadt.de)
+- [Andreas Waldis](mailto:andreas.waldis@live.com)
 - [Neele Falk](mailto:neele.falk@ims.uni-stuttgart.de)
 
 

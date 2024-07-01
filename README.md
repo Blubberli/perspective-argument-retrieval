@@ -13,10 +13,13 @@ The arguments for the shared task stem from [SmartVote](https://www.smartvote.ch
 fill out a questionnaire to get voting suggestions. The arguments are annotated with their stance regarding different political issues and are 
 formulated by politicians to support their stance. As a consequence, the arguments are provided together with socio-cultural properties of the author (the politician who wrote the argument).
 
+> This repository contains experimental software and is published to give additional background details on the respective publication.
+
+
+
 ## Retrieve the data
 
 <b> License </b>
-
 The data is provided for research purposes and is not intended for commercial use.
 The data is licensed under the CC BY-NC 4.0 licence. By retrieving the data, you agree to the terms of this license.
 The copyright of the data lies with SmartVote.
@@ -199,7 +202,8 @@ The top-k arguments are then returned as the retrieval results. There is no trai
 The predictions and the results of the baseline system for scenario 1 are stored in the `baseline` folder.
 
 
-# Reference
+### Reference
+
 ```
 @inproceedings{
     neele-etal-2024-perspective,
